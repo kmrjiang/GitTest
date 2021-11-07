@@ -48,4 +48,7 @@ public class IParamsSystem implements IParams{
     public ArrayList<Integer> getPlanParking() {
         return arrayList;
     }
+    
+    public void parse(){
+        System.out.println("陈相陵提交")
 }
